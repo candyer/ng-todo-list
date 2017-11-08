@@ -1,6 +1,6 @@
 # ng-todo-list
 
-[Todo-List Tutorial](https://ng-girls.gitbooks.io/todo-list-tutorial/content/)  
+[Angular Todo-List Tutorial](https://ng-girls.gitbooks.io/todo-list-tutorial/content/)  
 
 | No. | STEP |
 |----:|-----: |
@@ -19,5 +19,6 @@
 | 13  |[Add more abilities to service](https://github.com/candyer/ng-todo-list/tree/master/add_more_abilities_to_service)|
 | 14  |[Local storage](https://github.com/candyer/ng-todo-list/tree/master/local_storage)|
 | 15  |[Remove item](https://github.com/candyer/ng-todo-list/tree/master/remove_item)|
+| 16  |[Adding A Checkbox](https://github.com/candyer/ng-todo-list/tree/master/adding_a_checkbox)|
 
 
